@@ -237,5 +237,5 @@ cloudflared:
   source: https://github.com/spotsnel/cockpit-cloudflared
   issues: https://github.com/spotsnel/cockpit-cloudflared/issues
   license: LGPL 2.1
-  description: |
+  description: | 
     Cockpit application to show Cloudflare tunnel state.
